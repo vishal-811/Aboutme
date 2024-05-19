@@ -1,6 +1,5 @@
-### Hi 👋, I'm Vishal 
-
-## A full Stack Developer
+<h1 align="center">Hi 👋, I'm Vishal</h1>
+<h3 align="center">A full stack developer</h3>
 
 ## 🚀 About Me :
 🌱 I’m currently learning Next.js<br>
